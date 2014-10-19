@@ -1,0 +1,5 @@
+[package]
+
+name = "rust_cubes"
+version = "0.0.1"
+authors = ["Ted Dobyns <ted@tedajax.net>"]
